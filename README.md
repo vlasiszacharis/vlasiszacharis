@@ -7,7 +7,6 @@
 
 
 
-[![Vlasis GitHub stats](https://github-readme-stats.vercel.app/api?username=vlasiszacharis)](https://github.com/vlasiszacharis/github-readme-stats)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlasiszacharis&hide_progress=true)
