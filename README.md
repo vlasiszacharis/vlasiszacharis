@@ -15,6 +15,10 @@ Full Stack Software Engineer with 3+ years of experience delivering production a
 
 I enjoy taking ownership, solving problems without a clear playbook, and building secure, maintainable, and efficient software.
 
+### 🔨 Currently
+
+Working at Circuland, building the AI infrastructure behind Digital Product Passports and developing software for managing and understanding product and building data.
+
 ### 🚀 What I Build
 
 * **Full-stack products** · Applications from database design and APIs to responsive React interfaces.
