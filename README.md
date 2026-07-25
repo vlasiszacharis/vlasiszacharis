@@ -58,7 +58,6 @@ Working at Circuland, building the AI infrastructure behind Digital Product Pass
 
 **Focus Areas**
 
-`REST APIs` · `Microservices` · `Async Processing` · `Role-Based Access Control` · `Full Stack Engineering`
 
 ### 🎓 Education
 
